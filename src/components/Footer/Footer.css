@@ -1,0 +1,17 @@
+/* Footer.css */
+
+/* Style du pied de page (footer) */
+.footer {
+  background-color: #333; /* Couleur de fond */
+  color: #fff; /* Couleur du texte */
+  text-align: center; /* Alignement du texte au centre */
+  padding: 20px 0; /* Espacement intérieur haut et bas */
+}
+
+/* Style du texte de copyright */
+.footer-copyright {
+  font-size: 14px; /* Taille de la police */
+  opacity: 0.8; /* Opacité du texte */
+}
+
+/* Ajoutez d'autres styles CSS au besoin pour personnaliser davantage votre pied de page */

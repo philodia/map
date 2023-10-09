@@ -1,0 +1,29 @@
+/* Map.css */
+
+/* Style du conteneur de la carte */
+.map-container {
+    height: 400px; /* Hauteur de la carte (ajustez selon vos besoins) */
+    width: 100%; /* Largeur de la carte (100% de la largeur parente) */
+  }
+  
+  /* Style de la carte Google Maps */
+  .google-map {
+    height: 100%; /* Hauteur de la carte (100% de la hauteur du conteneur) */
+    width: 100%; /* Largeur de la carte (100% de la largeur du conteneur) */
+  }
+  
+  /* Style du marqueur sur la carte */
+  .google-marker {
+    position: absolute; /* Position absolue pour le marqueur */
+    transform: translate(-50%, -100%); /* Décalage pour centrer le marqueur sur les coordonnées */
+    background-color: #007bff; /* Couleur de fond du marqueur */
+    color: #fff; /* Couleur du texte du marqueur */
+    padding: 6px 12px; /* Espacement intérieur du marqueur */
+    border-radius: 5px; /* Coins arrondis du marqueur */
+    font-weight: bold; /* Texte en gras */
+    font-size: 14px; /* Taille de la police du marqueur */
+    cursor: pointer; /* Curseur pointeur sur le marqueur */
+  }
+  
+  /* Ajoutez d'autres styles CSS au besoin pour personnaliser davantage votre carte */
+  

@@ -1,0 +1,23 @@
+/* Header.css */
+
+/* Style du conteneur de l'en-tête */
+.header-container {
+  background-color: #007bff; /* Couleur de fond de l'en-tête */
+  color: #fff; /* Couleur du texte de l'en-tête */
+  padding: 20px; /* Espacement intérieur de l'en-tête */
+  text-align: center; /* Alignement du contenu au centre */
+}
+
+/* Style du titre de l'en-tête */
+.header-title {
+  font-size: 24px; /* Taille de la police du titre */
+  margin-bottom: 10px; /* Marge inférieure du titre */
+}
+
+/* Style de la description de l'en-tête */
+.header-description {
+  font-size: 16px; /* Taille de la police de la description */
+  opacity: 0.8; /* Opacité du texte de la description */
+}
+
+/* Ajoutez d'autres styles CSS au besoin pour personnaliser davantage votre en-tête */

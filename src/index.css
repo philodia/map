@@ -1,0 +1,19 @@
+/* index.css */
+
+/* Styles globaux pour le corps de la page */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Styles globaux pour l'élément racine de l'application */
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* Ajoutez d'autres styles globaux au besoin */

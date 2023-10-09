@@ -1,0 +1,12 @@
+/* App.css */
+
+/* Style de l'élément racine de l'application */
+.App {
+    font-family: Arial, sans-serif; /* Exemple de police de caractères */
+    background-color: #f0f0f0; /* Couleur de fond de l'application */
+    padding: 20px; /* Espacement intérieur global de l'application */
+    text-align: center; /* Alignement du contenu au centre */
+  }
+  
+  /* Ajoutez d'autres styles CSS au besoin pour personnaliser davantage votre application */
+  
